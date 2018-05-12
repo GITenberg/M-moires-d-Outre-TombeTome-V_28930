@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '8307'
     url: http://www.gutenberg.org/2009/agents/8307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28930#M-moires-d-Outre-TombeTome-V
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2009-05-22'
 gutenberg_type: Text
